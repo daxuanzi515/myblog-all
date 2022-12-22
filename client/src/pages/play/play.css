@@ -1,0 +1,35 @@
+.board{
+    display: flex;
+    padding: 100px;
+    margin-left: 30%;
+}
+
+.game{
+    width: 560px;
+    height: 560px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.game img{
+    width: 70px;
+    height: 70px;
+}
+
+.score-board
+{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+    width: 300px;
+}
+.score
+{
+    color: coral;
+    padding-left: 50px;
+}
+
+.img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
